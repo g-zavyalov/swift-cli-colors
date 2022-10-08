@@ -1,5 +1,3 @@
 # CLIColors
 
-Hello world!
-Colors for cli
-
+String extensions for commandline highlighting
